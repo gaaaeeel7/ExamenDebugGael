@@ -23,7 +23,7 @@
 
 ![img.png](img.png)
 
-Aquí tenemos el primer debug en el que da la variable n== 10 
+Aquí tenemos el primer debug en el que da la variable n== 10, en la funcion deberiamos poner n = 10 y nos daria la variable 
 
 ### Apartado 2
 
