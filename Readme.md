@@ -19,6 +19,12 @@
 
 ---
 
+**Respuesta**
+
+![img.png](img.png)
+
+Aquí tenemos el primer debug en el que da la variable n== 10 
+
 ### Apartado 2
 
 -  Asegúrate de que la llamada a la función es `print(funcion_bucle(10))`.
